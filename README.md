@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/hackingthemarkets/stockscreener)
+
 Didn't see a lot of examples out there for this framework, so decided to create one.
 
 ## Step 1: Hello World of FastAPI, Stub out the API endpoints
